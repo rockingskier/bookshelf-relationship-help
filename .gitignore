@@ -1,0 +1,13 @@
+.idea/
+node_modules/
+bower_components/
+
+logs/
+*.log
+
+*.sqlite3
+
+.tmp/
+.directory
+
+coverage/
