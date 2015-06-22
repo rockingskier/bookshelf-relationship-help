@@ -79,7 +79,7 @@ Recipe
   })
   .fetch({
     withRelated: [
-      'recipeIngredients.ingredient',
+      // 'recipeIngredients.ingredient',
       'ingredients'
     ]
   })
