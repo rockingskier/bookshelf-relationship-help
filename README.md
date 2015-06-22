@@ -21,3 +21,9 @@ npm install
  knex migrate:latest
  knex seed:run
  ```
+
+ ## Run
+ 
+ ```bash
+ node index.js
+ ```
